@@ -1,4 +1,4 @@
-![logo](https://github.com/surajjjha/surajjjha/blob/main/8469936.png)
+![logo](https://github.com/surajjjha/surajjjha/blob/main/Suraj%20Kumar%20Jha%20(2).jpg)
 <h1 align="center">Hi 👋, I'm Suraj Jha</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif">
